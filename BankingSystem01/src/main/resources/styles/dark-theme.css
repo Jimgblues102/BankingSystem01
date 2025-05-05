@@ -1,0 +1,49 @@
+/* dark.css */
+
+.root {
+    -fx-base: #2d2d2d;
+    -fx-background-color: #1e1e1e;
+    -fx-text-fill: #ffffff;
+}
+
+.label {
+    -fx-text-fill: #ffffff;
+}
+
+.button {
+    -fx-background-color: #444444;
+    -fx-text-fill: #ffffff;
+}
+
+.text-field, .password-field {
+    -fx-background-color: #444444;
+    -fx-text-fill: #ffffff;
+    -fx-prompt-text-fill: #888888;
+}
+
+.tab-pane {
+    -fx-background-color: #333333;
+    -fx-border-color: #444444;
+}
+
+.tab {
+    -fx-background-color: #333333;
+    -fx-text-fill: #ffffff;
+}
+
+.table-view {
+    -fx-background-color: #333333;
+    -fx-text-fill: #ffffff;
+}
+
+.table-cell {
+    -fx-background-color: #444444;
+    -fx-text-fill: #ffffff;
+}
+
+.header {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #ffffff;
+    -fx-padding: 10 0 10 0;
+}
